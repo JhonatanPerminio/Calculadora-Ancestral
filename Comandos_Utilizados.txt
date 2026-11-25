@@ -1,0 +1,15 @@
+# Para as permissões
+chmod +x mega_calculadora.sh
+
+# Para checar
+ll 
+
+# Para alterar as permissões
+chmod 744 mega_calculadora.sh
+
+# Para executar
+./mega_calculadora.sh
+
+
+
+Jhonatan da Silva Perminio

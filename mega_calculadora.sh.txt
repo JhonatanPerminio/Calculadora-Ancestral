@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Calculando..."
+echo "............."
+
+echo "VocÃª estÃ¡ em $PWD"
+
+echo "Segure-se, e seja bem vindo Ã  Calculadora Ancestral de Divictus!"
+
+python3 pycalc.py
